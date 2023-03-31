@@ -1,0 +1,14 @@
+ul{
+    list-style-type: none;
+    display: flex;
+}
+.main-nav{
+    position: fixed;
+    top: 0;
+    left: 0;
+
+}
+
+.main-nav li{
+    margin-right: 1rem;
+}

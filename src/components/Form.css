@@ -1,0 +1,8 @@
+.form{
+    
+display: grid;
+row-gap: 1rem;
+}
+button{
+    height: 3rem;
+}
